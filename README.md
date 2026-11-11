@@ -1,1 +1,1 @@
-# workspace_luna
+# technical_traning
