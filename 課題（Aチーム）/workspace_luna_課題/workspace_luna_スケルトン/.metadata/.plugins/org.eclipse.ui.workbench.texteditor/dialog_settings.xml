@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="String add" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="String add"/>
+			<item value="add"/>
+			<item value="new"/>
+			<item value=";;"/>
+			<item value="String errorMessage = customerDao.update(customer);"/>
+			<item value="procUpdate"/>
+			<item value="EditCon"/>
+			<item value="update"/>
+			<item value="NewCon"/>
+			<item value="New"/>
+			<item value="delete"/>
+			<item value="CustomerBean customer"/>
+			<item value="setCustomerBeanFromRequestToSession"/>
+			<item value="procNewConfirm"/>
+			<item value="DeleteCon"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="386" key="DIALOG_WIDTH"/>
+		<item value="1|Yu Gothic UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Yu Gothic UI" key="DIALOG_FONT_NAME"/>
+		<item value="454" key="DIALOG_HEIGHT"/>
+		<item value="1325" key="DIALOG_X_ORIGIN"/>
+		<item value="235" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
